@@ -61,7 +61,7 @@ See [LOW-LEVEL-ANALYSIS.md](docs/LOW-LEVEL-ANALYSIS.md) for syscall-level analys
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/zfs-rebalance.git
+git clone https://github.com/szymontex/zfs-rebalance.git
 cd zfs-rebalance
 
 # That's it. Single script, no build step, no dependencies beyond sqlite3.
